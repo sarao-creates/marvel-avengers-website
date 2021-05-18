@@ -8,3 +8,4 @@ npx browser-sync -sw
 ```
 
 GIF video:
+![website-demo](https://github.com/sarao-creates/marvel-avengers-website/blob/master/demo.gif)
